@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-BASE_URL = "http://127.0.0.1:8000"
+BASE_URL = "https://task-manager-production-20a5.up.railway.app"
 
 st.set_page_config(page_title="Team Task Manager", layout="wide")
 
